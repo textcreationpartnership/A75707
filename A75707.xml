@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good courage discovered, and encouraged: in a sermon preached before the commanders of the military forces, of the renowned citie of London. In the parish church of Great St. Helens. May the 17. 1642. By Simeon Ash, preacher in London.</title>
+            <author>Ashe, Simeon, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75707</idno>
+            <idno type="STC">Wing A3956</idno>
+            <idno type="STC">Thomason E149_26</idno>
+            <idno type="STC">ESTC R3991</idno>
+            <idno type="EEBO-CITATION">99872560</idno>
+            <idno type="PROQUEST">99872560</idno>
+            <idno type="VID">156733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156733)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good courage discovered, and encouraged: in a sermon preached before the commanders of the military forces, of the renowned citie of London. In the parish church of Great St. Helens. May the 17. 1642. By Simeon Ash, preacher in London.</title>
+                  <author>Ashe, Simeon, d. 1662.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Dawson for Iohn Burroughes, and are to be sold at his shop at the golden Dragon neare the Inner Temple-gate in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print on p.36, dated: 26. May, 1642.</note>
+                  <note>Running title reads: Good courage discovered, and incouraged.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXXI, 24 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Courage --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156733:1" rendition="simple:additions"/>
+            <p>GOOD COVRAGE DISCOVERED, <hi>AND</hi> ENCOVRAGED: IN A SERMON preached before the Commanders of the Military Forces, of the Renowned Citie of <hi>London.</hi>
+            </p>
+            <p>In the Pariſh Church of Great S<hi rend="sup">t</hi>. <hi>Helens. May</hi> the 17. 1642.</p>
+            <p>By SIMEON ASH, Preacher in London.</p>
+            <q>
+               <bibl>DEVT. 20. 2, 3, 4.</bibl>
+               <p>
+                  <hi>And it ſhall be, when yee are come nigh unto the Battell that the Prieſt ſhall approach, and ſpeake unto the people.</hi>
+               </p>
+               <p>
+                  <hi>And ſhall ſay unto them, Heare O Iſrael, you approach this day unto Battel againſt your Enemies: Let not your hearts faint, feare not, and doe not tremble, neither be yee terrified becauſe of them.</hi>
+               </p>
+               <p>
+                  <hi>For the Lord your God is he that goeth with you, to fight for you againſt your enemies to ſave you.</hi>
+               </p>
+            </q>
+            <p>LONDON, Printed by <hi>Iohn Dawſon</hi> for <hi>Iohn Barroughes,</hi> and are to be ſold at his ſhop at the golden Dragon neare the Inner Temple-gate in Fleet-ſtreet. 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:156733:2"/>
+            <pb facs="tcp:156733:2"/>
+            <head>TO THE RIGHT WORSHIPFVLL, the Aldermen, and Commoners, unto whom the <hi>Militia</hi> of the Citie of <hi>London</hi> is committed, the Serjeant Major Generall, the Colonels, the Lieu<g ref="char:EOLhyphen"/>tenant Colonels, Ser<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eant Majors, Captaines, and other officers of the trained Bands of the ſaid <hi>Citie.</hi>
+            </head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Ornelius,</hi> Centurion of the Ita<g ref="char:EOLhyphen"/>lian Band is thus commended by the Holy Ghoſt, that <hi>hee was a devout man, and one that fea<g ref="char:EOLhyphen"/>red God.</hi> And I may report thus much to your h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nour and to move others to make imitation; that you have begun, and hitherto carr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed on your <hi>Martiall</hi> affairs relig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſly. For having put the City into a poſture of defence; before the execution of the <hi>Mi<g ref="char:EOLhyphen"/>litia;</hi> you joyntly ſought God by Prayer for good ſucceſſe.
+<pb facs="tcp:156733:3"/> The Lord heard your Prayers, for you went forth, and retur<g ref="char:EOLhyphen"/>ned home, without the leaſt touch of danger to your ſelves, or your Companies. This remarkeable Providence called you againe together, to praiſe the God of ſalvations, the God of your mercies.</p>
+            <p>Hereupon you were pleaſed to appoint me (very unworthy) to aſſiſt you in the ſervice of Thankeſgiving: A ſervice not unſeemly for the Hoaſt of Heaven.</p>
+            <p>This Sermon, which upon that occaſion I preached, through the Conſtructions of your Love found ſuch acceptance, that you commanded it to come abroad to doe you further ſervice.</p>
+            <p>And ſeeing you gave it good entertainment, as it was firſt preſented, it makes bold to wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te upon you without change of habit, expecting your Protection.</p>
+            <p>Although I ſomewhat ſuſpect that ſundry amplifications in the Sermon which affected the Auditors, may not be ſo pleaſing to the Iudicious Reader, yet your deſires to have it prin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, as it was preached, makes me to run that adventure.</p>
+            <p>The Lord of Hoſts guide, guard, and encourage you in all your good undertakings for peace and truth, and make you carefull to put Chriſtian references upon all your ſer<g ref="char:EOLhyphen"/>vices, for the honour and ſafety of our King, the welfare of his Kingdomes, and the continued Proſperity of this famous Ci<g ref="char:EOLhyphen"/>tie. This your prudent and pious perſeverance in the worke ſo well begun, will draw forth many prayſes to God, many prayers for you, and much rejoycing in the hearts of all them, who ſin<g ref="char:EOLhyphen"/>cerely affect you; of which number, I beſeech you account him one who is</p>
+            <closer>
+               <signed>Your Servant, in, and for Chriſt, SIMEON ASH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156733:3"/>
+            <head>GOOD COURAGE DISCOVERED, AND INCOVRAGED.</head>
+            <epigraph>
+               <bibl>PSAL. 31. 24.</bibl>
+               <q>Be of good Courage.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">R</seg>Ight worſhipfull, and worthy Gentle<g ref="char:EOLhyphen"/>men, (whoſe deſires, and whoſe ſervice of thankſgiving, I am now attending,) I hope you are come hither with an in<g ref="char:EOLhyphen"/>tention;</p>
+            <p>Firſt, to honour God for preſer<g ref="char:EOLhyphen"/>vation enjoyed, through his providence, to whom you prayed. My Text lookes back unto ſuch a buſineſſe; <hi>The Lord preſerveth the faithfull;</hi> therefore let<note place="margin">Verſe 23.</note>
+               <pb n="2" facs="tcp:156733:4"/> the faithfull upon ſuch experiences in way of prayſe, in way of requitall learne to bee of good courage.</p>
+            <p>Secondly, I beleeve you are come together in expecta<g ref="char:EOLhyphen"/>tion for the future, to receive further favours from the God of your preſent prayſes; and my Text lookes forward to that, <hi>Bee of good courage, and hee ſhall ſtrengthen thine heart, and wait I ſay on the Lord.</hi>
+            </p>
+            <p>My Text is ſhort, the words in our tranſlation are not many, in the originall, there is but one word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Septuagint renders the Hebrew word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Quit your ſelves like men; <hi>Viriliter agite,</hi> play the men, <hi>Rob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ramini,</hi> bee yee ſtrong.</p>
+            <p>The Counſell here given is for all Chriſtians, at all times needfull, but for you, and at this time, moſt ſeaſonable.</p>
+            <p>Bee yee couragious. Firſt, The Counſellour was, a Wor<g ref="char:EOLhyphen"/>thy, a Souldier, a Warriour, a Commander, a King: <hi>David,</hi> as the title tels you, Hee cals for courage.</p>
+            <p>Secondly, The Perſons counſelled, they are Saints, faith<g ref="char:EOLhyphen"/>full ones: O yee Saints love him, his manner is by his ſpe<g ref="char:EOLhyphen"/>ciall providence to preſerve you; Therefore bee yee of good courage. The point lies faire, which I conceive pertinent, and now purpoſe to proſecute.</p>
+            <div type="part">
+               <head>Gods people muſt bee of good courage.</head>
+               <note place="margin">D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctr.</note>
+               <p>I ſhall briefly ſuggeſt the Scriptures proofe, in a threefold gradation, wherein good courage is called for:</p>
+               <p>Firſt, Saint <hi>Paul</hi> an Apoſtle with Apoſtolicall autho<g ref="char:EOLhyphen"/>rity, perſwades to it; 2 <hi>Cor. 16. 13. Quit yee like men.</hi>
+               </p>
+               <p>Secondly, <hi>Iehoſaphat</hi> a King, with regall authority commands it, 2 <hi>Chron. 19. ult. Deale couragiouſly.</hi>
+               </p>
+               <p>Thirdly, The great God of Heaven and Earth, putting himſelfe under a warlike notion, as the Lord Generall of all the forces in the World, the Lord of <hi>Hoſts.</hi> He peremp<g ref="char:EOLhyphen"/>torily preſſeth it; <hi>Haggie. 2. 4. Now bee ſtrong ô</hi> Zoroba<g ref="char:EOLhyphen"/>bel <hi>ſaith the Lord and bee ſtrong ô</hi> Ioſhua, <hi>the Sonne of</hi> Ioze<g ref="char:EOLhyphen"/>dek <hi>the High Prieſt, and bee ſtrong the people of the Land ſaith
+<pb n="3" facs="tcp:156733:4"/> the Lord, and worke, for I am with you ſaith the Lord of</hi> Hoſts.</p>
+               <p>Three things there be, that I ſhall ſpeake to, in the pro<g ref="char:EOLhyphen"/>ſecution of this point.</p>
+               <p>Firſt, The explication of the vertue, the grace called for, wherein I will endeavour to diſcover what this courage is.</p>
+               <p>Secondly, The confirmation of this truth by reaſons, from which this Doctrine may undeniably bee concluded, and by which you may all bee fully convinced, that there is aboundant cauſe, why all Gods people ſhould bee cou<g ref="char:EOLhyphen"/>ragious.</p>
+               <p>Thirdly, The application of all, by way of uſe, that my Sermon may be the more ſerviceable.</p>
+               <p>Chriſtian courage may thus bee deſcribed, It is the un<g ref="char:EOLhyphen"/>daunted<note place="margin">A Deſcrip<g ref="char:EOLhyphen"/>tion of good Courage.</note> audacity of a ſanctified heart in adventuring upon difficulties, and undergoing hardſhips for a good cauſe upon the call of God.</p>
+               <p>There are ſix things conſiderable in the deſcription that I have given, which I will particularly point at, and prove.</p>
+               <p>Firſt, the <hi>Genus,</hi> the common nature of it: it is an un<g ref="char:EOLhyphen"/>daunted audacity. This Animoſity (as ſome phraſe it,) it is common both unto men, and to ſome bruits. The Lion, <hi>Prov.</hi> 30. 30. is ſaid, to bee <hi>the ſtrongeſt among beaſts, that turneth not away from any.</hi>
+               </p>
+               <p>And there is an elegant deſcription of the warre horſe, in regard of boldneſſe, <hi>Job</hi> 39. 19. &amp;c. <hi>Haſt thou given the horſe ſtrength? haſt thou cloathed his neck with thunder<g ref="char:punc">▪</g> Canſt thou make him afraid as a graſ-hopper? the glory of his noſtrils is terrible, hee paweth in the valley, and rejoyeth in his ſtrength, hee goeth out to meete the armed men. Hee mocketh at feare, and is not affrighted, neither turneth hee back from the ſword. The Quiver ratleth againſt him, the glittering ſpeare and the ſheild, hee ſwallowes the ground with fierceneſſe and rage, neither beleeveth hee, that it is the ſound of the Trumpet.</hi>
+               </p>
+               <pb n="4" facs="tcp:156733:5"/>
+               <p>And this boldneſſe that is in bruits, it is ſpoken of, as a piece of this ſame courage that God is pleaſed to give to men; <hi>Ezek.</hi> 3. 9. this is the Lords promiſe. <hi>As an Ada<g ref="char:EOLhyphen"/>mant, harder then the flint, have I made thy forehead.</hi>
+               </p>
+               <p>The word <hi>Harder,</hi> is the ſame in the Hebrew, that is here in my Text, <hi>Fortiorem petra;</hi> The Rock, that is not afraid of any weather, Summer, or Winter, Sunne, and Showres, Heat, and Cold, Froſt, and Snow, it bluſheth not, ſhrinketh not, it changeth not it's complexion, it is ſtill the ſame; Such alike thing is courage, in the common nature of it.</p>
+               <p>Secondly, Conſider the ſubject, it is the Heart, the Caſtle where Courage commands, and exerciſeth Military Diſci<g ref="char:EOLhyphen"/>pline; (ſhall I ſo ſay) its within the boſome, it is the Soule of a valiant Souldier.</p>
+               <p>Some conceive, our <hi>Engliſh</hi> word Courage, to bee de<g ref="char:EOLhyphen"/>rived from <hi>Cordis actio,</hi> the very acting of the heart.</p>
+               <p>A valiant man is deſcribed, 2 <hi>Sam</hi> 17. 10. for to bee a man; whoſe heart, is as the heart of a Lyon. And ſometime, the originall tranſlated, Couragious, as <hi>Amos</hi> 2. 16. may moſt properly bee rendred, <hi>a Man of heart.</hi>
+               </p>
+               <p>Beloved, valour doth not conſiſt in a piercing eye, in a terrible looke, in bigge words, but it conſiſts in the mettall, the vigour that is within the boſome. Some<g ref="char:EOLhyphen"/>times, a Coward may dwell at the ſigne of a roaring voyce, and of a ſterne countenance: whereas true fortitude may bee found within his breaſt, whoſe outward deportment promiſeth little, or nothing in that kind.</p>
+               <p>Thirdly, Note the qualfication of this ſame ſubject; I ſaid a ſanctified heart: for I am not now ſpeaking of forti<g ref="char:EOLhyphen"/>tude, as a morall vertue, whereof Heathens, that have not God, are capable; and for which many among them, that are not Chriſtians, have beene worthily commended.</p>
+               <p>But I am now diſcourſing of Courage, as a vertue Theo<g ref="char:EOLhyphen"/>logicall, as a gracious qualification, put upon the people
+<pb n="5" facs="tcp:156733:5"/> of God by ſpeciall covenant. And there are three things that doe characterize it, and which doe diſtinguiſh it from the morall vertue of fortitude.</p>
+               <list>
+                  <item>The <hi>Roote,</hi> whence it ariſeth;</item>
+                  <item>The <hi>Rule,</hi> whereby it is directed;</item>
+                  <item>The <hi>End,</hi> to which it is referred,</item>
+               </list>
+               <p>The Roote, whence it riſeth, is love to God; All the Saints of God that love the Lord, bee of good Courage. The love of Chriſt conſtraineth mee to make theſe bold, and brave adventures, ſaith the Apoſtle, 2 <hi>Cor.</hi> 5. 14.</p>
+               <p>The Rule whereby it is directed, is the word of God: what the Lord hath pleaſed to leave on record for a Chri<g ref="char:EOLhyphen"/>ſtians guidance in holy pages, 1 <hi>Chron. 22. 12. 13. The Lord give thee wiſedome and underſtanding, that thou maiſt keepe the law. If thou take heed to the ſtatutes, and judgements, which the Lord charged</hi> Moſes <hi>with concerning</hi> Iſrael: <hi>be ſtrong and of good courage, dread not, nor be diſmai'd.</hi> Bee a man of mettall, but let thy mettall bee according to my mind, according to this rule.</p>
+               <p>And the End, to which it referres, is God. For every ſanctified man, being a ſelfe-denying, and a God-advan<g ref="char:EOLhyphen"/>cing man; his God is his Center, wherein his actings, his undertakings reſt, and his Soule is not, yea it cannot bee ſatisfied but in God.</p>
+               <p>The fourth thing conſiderable in the Deſcription is, the naturall, the formall, the immediate operations, that doe flow from this gracious, audacious frame of heart, they are two:</p>
+               <list>
+                  <item>
+                     <hi>There is an adventuring upon difficulties,</hi>
+                  </item>
+                  <item>
+                     <hi>And there is an undergoing of hardſhips.</hi>
+                  </item>
+               </list>
+               <p>Firſt, There is an adventuring upon hard ſervices, It is ſaid, 1 <hi>Sam. 31. 12. The valiant men roſe and went all night, and tooke the body of Saul, and the bodies of his Sonnes from the wale of</hi> Bethſhan, <hi>and came to Gabeſh, and burnt them there.</hi> When the <hi>Philiſtins</hi> had taken their bodies and were gone away Conquerours, and faſtened them there,
+<pb n="6" facs="tcp:156733:6"/> as Enſignes of victory, brave blades, well mettalled men, went by night, and fetched them back againe: an hard, and a brave ſervice.</p>
+               <p>And by reaſon hereof there is an enduring of hardſhips: Thoſe Worthies of whom the world was not worthy, who are ſaid to be <hi>men valiant in fight,</hi> Heb. 11. 34. This, teſtimony is given of them, that <hi>They endured tortu<g ref="char:EOLhyphen"/>rings, the tryall of mockings<g ref="char:punc">▪</g> or cruell mockings, of ſcourgings, of bonds, and impriſonment, of ſtoning, of being ſawne aſun<g ref="char:EOLhyphen"/>der, of being ſlaine with the ſword, of wandring up and downe in ſheeps skins, and goats skins, being men deſtitute, afflicted, and tormented.</hi>
+               </p>
+               <p>Fiftly, in my deſcription, I caſt in the cauſe, which true courage undertakes to doe, and ſuffer for, the object it workes upon, the prize it adventures for, it is a good cauſe, Matters of faith, <hi>ſtand ye faſt in the faith, quit ye like men.</hi> It is<note place="margin">1 Cor. 16. 13</note> a Goſpel peice for which I am to jeopard a joynt, to hazard alimbe, to adventure life, 1 <hi>Cor.</hi> 6. 13. or matters of fact: I muſt be of good courage for my conſcience, that I may main<g ref="char:EOLhyphen"/>taine an evenneſſe of ſpirit in reference to my rule, in rela<g ref="char:EOLhyphen"/>tion to my God, 1 <hi>Pet. 3. 14. If yee ſuffer for righteouſ<g ref="char:EOLhyphen"/>neſſe ſake happy are yee, be not afraid of their terrour, neither be troubled.</hi> It is a noble, a Chriſtian reſolution in any man, if hee thus determine, rather then I will make a wound upon my conſcience, a breach betweene God and my ſoul; rather then I will violate aſacred vow, and tranſgreſſe the command of my God, I will run the greateſt hazards in outward regards that can be imagined.</p>
+               <p>The goodneſſe of the cauſe (Divines ſay) for which a man ſuffers, makes the Martyr: In like manner, it is the warrantableneſſe of the worke, wherein the ſouldier, the man of mettall appeares, that gives him the credit, the ho<g ref="char:EOLhyphen"/>nour of this title, to be accounted a valiant man.</p>
+               <p>Sixtly and laſtly, I added that good courage makes the<note place="margin">Ioſ. 1. 9.</note> foreſaid adventures upon the call of God. <hi>Have not I com<g ref="char:EOLhyphen"/>manded thee, be ſtrong and of a good courage:</hi> If the Lord
+<pb n="7" facs="tcp:156733:6"/> pleaſe to beat up the Drum; If the Lord pleaſe to bid them arme, and come abroad, his call is ſufficient, Now God cals either by his precept, or by his providence. Either God cals his Champions for to undertake dangers, or hee com<g ref="char:EOLhyphen"/>mands dangers to over-take them; and hereupon being led forth by the Lord of hoaſts, they expreſſe their valour: For this they know, that whether it be eſtate, or peace, or life, or liberty, or Religion, or whatſoever elſe they hope to defend, they are all tallants that God hath entruſted them with, and that therefore only upon his Commiſſion ſigned, and ſealed by his own hand they may come forth, and muſt come forth bravely, and ſhew themſelves couragious in reference thereto.</p>
+               <p>Now for a man in an impetuous, giddy, neady way, to breake himſelfe unwiſely in his reputation, liberty, eſtate, and himſelfe knowes no other reaſon: but becauſe his ſpi<g ref="char:EOLhyphen"/>rit moves him, and his humours ſtirre in him, or ſome paſ<g ref="char:EOLhyphen"/>ſionat inconſiderate perſons provoke him, this (my beloved) is not to be couragious. Wee reade in the Goſpel, of a man poſſeſſed with an evil ſpirit, that did often caſt himſelf into the water, and into the fire to deſtroy himſelf. And truly it nearely concernes many men of daring ſpirits, to conſider<note place="margin">Mark 9. 22<g ref="char:punc">▪</g>
+                  </note> ſeriouſly what ſpirit it is that acts in them: Theſe things we muſt marke, that the true nature of courage may bee underſtood.</p>
+               <p>This deſcription of good courage I judged meet to pre<g ref="char:EOLhyphen"/>miſe and to explain briefly, that we may underſtand the duty in the text, the duty, the ſeaſonable duty, which God calls for, and I plead for.</p>
+            </div>
+            <div type="part">
+               <head>Bee of good Courage.</head>
+               <p>The ſecond thing I propounded in the proſecution of this point, is the reaſons wherefore a Chriſtian ſhould bee couragious: And my doctrine is built upon a fourefold ground.</p>
+               <p>Firſt, Gods people ſhould be of good courage, in refe<g ref="char:EOLhyphen"/>rence
+<pb n="8" facs="tcp:156733:7"/> unto the condition, unto which God hath called them. God hath appoynted all Chriſtians to be ſouldiers. A Sacrament is a ſouldiers oath, when we were baptized we tooke preſſe money, and vowed to ſerve under the co<g ref="char:EOLhyphen"/>lours of Chriſt, and as manfull ſouldiers to fight againſt the world, the fleſh, and the Devill: and as oft as wee have beene at the Sacrament of the body and blood of our Lord, wee have renewed our ſolemne, and ſacred obligation in that kind, in reference to Chriſt, who is called <hi>The Captaine of the Lords hoſt, Joſ.</hi> 5. 16. and <hi>the Captaine of our ſalva<g ref="char:EOLhyphen"/>tion Heb. 2. 10. Inàure hardneſſe</hi> (ſaith the Apoſtle) <hi>as a good culd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er of Chriſt,</hi> 2 Tim. 2. 4, <hi>Epaphroditus my fellow ſouldier,</hi> Phil. 2. 25. Beloved, wiſdome is not more ne<g ref="char:EOLhyphen"/>ceſſary for a Counſellor, nor eloquence for an Orator, then courage for a ſouldier. Souldiers we are, wee muſt there<g ref="char:EOLhyphen"/>fore, <hi>Be of good courage.</hi>
+               </p>
+               <p>Secondly, the weighty ſervices wherein the Lord of Hoſts is pleaſed to imploy us. Men imployed in peculiar ſervices are commanded to put on fortitude: As <hi>Ioſhua</hi> who was a Commander to guide, and governe the hoſt, the armies of the Iſraelites in their paſſage to <hi>Canaan, Bee thou ſtrong and very couragious, that thou maiſt obſerve to</hi>
+                  <note place="margin">Ioſh. 1. 7.</note> 
+                  <hi>doe according to all the Law, which Moſes my ſervant com<g ref="char:EOLhyphen"/>manded thee, turne not from it, to the right hand or to the left.</hi> And <hi>Ezra,</hi> in regard of his office, is thus ſpoken un<g ref="char:EOLhyphen"/>to: <hi>Ariſe, for the matter belongeth unto thee, bee of good courage, and doe it:</hi> and common Chriſtians, in reſpect of ſervices required of them, are to be couragious in their pla<g ref="char:EOLhyphen"/>ces, <hi>Ioſ. 23. 6. Be yee therefore very couragious to keepe, and to doe all that is written in the booke of the law of</hi> Moſes, <hi>that you turne not aſide therefrom, to the right hand or to the left.</hi>
+               </p>
+               <p>Shall I hint ſome ſervices that are charged upon all our conſciences</p>
+               <p>The worke of mortification, to pick out our eyes, to chop off our hands, to cut off our feet; doe you thinke that a milke ſop, a man that is not a man of a ſtout ſpirit
+<pb n="9" facs="tcp:156733:7"/> will doe this. Novv to maſſacre fleſhly luſts, is (as it vvere) for a man to mangle, and diſmember his owne body, it is a worke painefull and grievous, as for a man to cut off his owne feet, to chop off his ownehands, and to pick out his owne eyes, as Chriſt and the Apoſtle <hi>Paul</hi> doe expreſſe it.</p>
+               <p>Beſides this, there are in Chriſtians boſomes, ſtrong holds to be battered, fortifications to be demoliſhed: there are high hils and mountaines, that muſt be levelled with the ground ther are trenches to be made, vallies to be filled. O beloved, I may not mention the hils that lye before us in heaven way, which we muſt climbe up; and craggy rocks that we muſt get over: and without courage certainly the ſervice put upon our hands will not be diſcharged.</p>
+               <p>Ther are alſo the wals of <hi>Iruſalem</hi> to be repaired, and the Temple to be reedefied: If <hi>Nehemiah</hi> had not beene a a man of a brave ſpirit, hee would never have gone through ſtitch with that Church worke, thoſe weighty ſervices which hee did undertake. How this is appliable to us for the preſent time, the time of our begun refor<g ref="char:EOLhyphen"/>mation, I ſpeake not; but rather doe referre it to your conſiderations; I beſeech you to reade <hi>Neh.</hi> 4 17, 18. They which builded on the wall, and they that did beare bur<g ref="char:EOLhyphen"/>thens, with thoſe that laded: Every one with one of his hands wrought in the work, and with the other hand held a weapon. For the Builders every one had a ſword girded by his ſide, and ſo builded, and he that ſounded the Trum<g ref="char:EOLhyphen"/>pet was by us. While they were at worke they were all ready for warre.</p>
+               <p>Thirdly, Chriſtians muſt bee couragious, in reference to the 3. huge Armies, with which they are aſſaulted.</p>
+               <list>
+                  <label>There are armies</label>
+                  <item>
+                     <list>
+                        <item>Of Devils.</item>
+                        <item>Of Luſts.</item>
+                        <item>Of men and women in the world, that doe wage warre with every Chriſtian, that in good earneſt makes out after his God in heaven way.</item>
+                     </list>
+                  </item>
+               </list>
+               <pb n="10" facs="tcp:156733:8"/>
+               <p>For the Devils, it is the argument of the Apoſtle, and from thence I tooke it, <hi>Epheſ. 6. 10. Brethren, be ſtrong</hi> (ſaith hee,) <hi>for we wreſtle not againſt fleſh, and bloud, but a<g ref="char:EOLhyphen"/>gainſt principalities, and powers, againſt the Rulers of the darkneſſe of this World, againſt Spirituall wickedneſſes in the heights.</hi> Marke for the number they are many, <hi>Our name is legion, for wee are many:</hi> How many thouſands, neither you nor I know. There is ſtrength in them, they are Powers, Principalities, and they are Rulers, they have very great authority in the Darkneſſe of the World; in Midnight men, Darke men, Men who love not Sunne-ſhine light, but ra<g ref="char:EOLhyphen"/>ther delight to lye in holes and caves.</p>
+               <p>I meane, in regard of the Darkneſſe of their minds, and their wilfull ignorance of the things of God. And they are in the height; they fight with much advantage (as ſome obſerve,) being over our heads. And they are Spirits, they worke inviſibly, and they fight againſt our Soules, they la<g ref="char:EOLhyphen"/>bour to keepe our hearts in thraldome, they ſeeke to beggar and to undoe us in regard of our grace, and Spirituall joyes.</p>
+               <p>The Holy Apoſtle <hi>Peter</hi> ſayeth, The Divell your adver<g ref="char:EOLhyphen"/>ſary, goeth about like a roaring Lyon, ſeeking whom hee may devoure. An Adverſary, and a Devill, and a ſtrong one, as a Lyon roaring, and then hee is active, hee walkes about, and hee is full of malice, ready to devoure: Theſe things touched upon, doe tell us, that wee, who are al<g ref="char:EOLhyphen"/>wayes ſurrounded, beſieged by ſuch enemies, have need of courage.</p>
+               <p>There are armies of luſts, I know not how many. The<note place="margin">1 Pet. 2. 11.</note> Apoſtle ſaith, <hi>Fleſhly luſts that fight againſt the Soule.</hi> Theſe ſoes lye within us, and they ſtrike at the head, and the heart, endeavouring to let out the precious life of our im<g ref="char:EOLhyphen"/>mortall ſoules.</p>
+               <p>As the Captaines of the King of <hi>Syria,</hi> had a command<note place="margin">1 King 22. 31.</note> to fight againſt, neither ſmall nor great, but the King of <hi>Iſrael.</hi> And the Apoſtle ſaith, that luſts in his boſome were
+<pb n="11" facs="tcp:156733:8"/> ſuch enemies, as ſtill carried him captive, and haled him as a priſoner. (You know the expreſſion, <hi>Rom.</hi> 7. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.) Be<g ref="char:EOLhyphen"/>loved, doth not experience oftentimes prove thus much, that pride, paſſions, unbeliefe, hypocriſie, earthly minded<g ref="char:EOLhyphen"/>neſſe, creature confidence, ſenſuality, doe take up armes againſt our precious Soules. Alas! alas! luſts, deceitfull luſts, many deceitfull luſts, are ſtill, ſtill tyrannizing in our bo<g ref="char:EOLhyphen"/>ſomes, which of us hath not cauſe to complaine with the Apoſtle, when I would doe good, they are at hand preſent with mee: ſtrong in mee, ever ſtabbing, and ſtriking, and poyſoning, and wounding; if I would but pray, or weepe, or amend. Theſe Rebels raiſe their ſtrengths, and com<g ref="char:EOLhyphen"/>bine their forces to hinder mee: and no ſooner can Sathan hold up finger, and temptation ſhew it ſelfe; But they are ready furiouſly to march out againſt Chriſt, his govern<g ref="char:EOLhyphen"/>ment, graces, glory. Beloved, I appeale to your con<g ref="char:EOLhyphen"/>ſciences, whether in regard of this black guard, maintai<g ref="char:EOLhyphen"/>ned within us, wee have not need to bee of good cou<g ref="char:EOLhyphen"/>rage.</p>
+               <p>Thirdly, the armies of people: The Apoſtle <hi>Paul</hi> ſaith, hee fought with men who were as beaſts, <hi>Beaſts after the manner of men, 1 Cor. 15. 32. David</hi> tels you they were Dogges, and they were Tygers, and Wolves, and Beares, and Buls, and Lyons, ſo in the Pſalmes hee phraſeth them. I promiſe you, a man that is ſo beſet, thus aſſaulted, if hee bee not a man of courage what will become of him? There are <hi>Sanballets</hi> and <hi>Tobiah's,</hi> men of malignant, miſchievous Spirits, to doe us miſchiefe in Heaven way. had wee not need in that regard to bee couragious? And truly, women if they cannot uſe weapons, they will caſt, and fling ſtones, ſhoote their arrowes even bitter words. <hi>David</hi> met with oppoſition in that kind, from one that was neare, and ſhould have beene better. <hi>Michol</hi> ſhee jeared him in his righteous, and holy zeale, in refe<g ref="char:EOLhyphen"/>rence to God; you know the ſtory, and therefore I report it not. And doubtleſſe, had not hee beene a man of an
+<pb n="12" facs="tcp:156733:9"/> Heroick Spirit, hee might have beene daſht out of counte<g ref="char:EOLhyphen"/>nance and baffled and cooled in his zeale, becauſe of her reproachfull language.</p>
+               <p>There are thoſe that are ready to performe ill offices, <hi>Sheba<g ref="char:punc">▪</g>
+                  </hi> like, to blow a Trumpet of ſedition, of contention, to caſt coales, and kindle ſtrife betweene the head and the members, the King, and his Subjects; to ſet all on a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me in the Kingdome. In this regard, wee had need to bee ſteele to the back, that wee bee not diſheartned. From all theſe three particuiars, I might apply that paſſage, 2 <hi>Sam.</hi> 10. 9. 12. When <hi>Ioah ſaw the front of the battaile againſt him be<g ref="char:EOLhyphen"/>fore and behind; hee ſayed hee of good courage, and let us play the men:</hi> His ſpeeches did ſparkle Spirits, he herein proved himſelfe a man meete to bee a warlike Commander, for danger and difficulties did adde heart and heate.</p>
+               <p>My Maſters, you ſee our caſe, let us play the men for our people, and for the Cities of our God. Beloved, you per<g ref="char:EOLhyphen"/>ceive by that which I have pointed at, that our enemies are more and worſe, we are beſet before, and behind, above, and below, without and within; not onely our Cities, but our Soules are oppoſed, endangered. Hell and Earth, Men and Devils, yea and our ſelves are Adverſaries to our ſelves. Therefore there is good reaſon, why wee ſhould put on Courage.</p>
+               <p>Fourthly and laſtly, Wee have need of Courage, becauſe of the various afflictions to bee expected. For ought wee know, heavy things may befall us, and muſt bee borne by head, and ſhoulders by us, before wee get to our Caſtle, our place of refuge, our reſt in Heaven; how ſtony, how thorny, how deepe, and how dangerous our wayes may prove, before wee get to our journeyes end, wee cannot tell. It may bee, wee muſt travaile through bloud, through our owne bloud, and therefore wee need Courage.</p>
+               <p>After our Saviour had ſuggeſted to his Diſciples, <hi>Mat. 10. 21. Brother ſhall deliver brother to death; the Father the Child, and the Child ſhall raiſe againſt the Parents, and
+<pb n="13" facs="tcp:156733:9"/> cauſe them to be pat to death, and you ſhall be hated of all men for my names ſake;</hi> Hereupon hee adds, verſe 26. <hi>Feare not, 32. Feare not.</hi> Beloved, we know not what may be our portion here on earth, before we come perfectly to enjoy God our portion, and be happy in enjoying of him for ever. Wee may live to ſee the Citie fired, our eſtates waſted, our wives abuſed, our children torne in peices lin be-meale, peice-meale before our eyes: beleeve mee without cou<g ref="char:EOLhyphen"/>rage, theſe ſights will be hard and heavy to be beheld, ſuch like ſights will cauſe us to fownd away, to ſinck into the duſt, if wee provide not courage. Thus have I run over my reaſons, and now I requeſt you all, ſeriouſly to conſider, whether in all the fore-mentioned regards, we have not abundant cauſe to endeavour, to get the grace the text com<g ref="char:EOLhyphen"/>mends, and to doe the duty that in the text God cals for, <hi>Be of good courage.</hi>
+               </p>
+               <p>I come now to the application of all that hath beene de<g ref="char:EOLhyphen"/>livered by way of uſe. The uſes of this poynt that I ſhall ſpeake to, they are but two.</p>
+               <list>
+                  <item>The firſt Reproofe,</item>
+                  <item>The ſecond Exhortation.</item>
+               </list>
+               <p>For Reproofe, hence I have occaſion for to blame both unworthy cowardlineſſe in ſome, and wicked audaciouſ<g ref="char:EOLhyphen"/>neſſe in others: both vices contrary to this vertue, both extreames, oppoſed by this practize of Chriſtian fortitude, which my text perſwades.</p>
+               <p>Firſt I muſt check an unworthy daſtardlineſſe, which diſcovers it ſelfe three wayes in the boſomes of men.</p>
+               <p>Firſt, when men by reaſon of puſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>animity, &amp; lowneſſe of ſpirit, dare not appeare in the cauſe that they are convin<g ref="char:EOLhyphen"/>ced, to be the cauſe of God. There were ſome, <hi>Ioh.</hi> 12. 43. who, though they beleeved on Chriſt, yet they durſt not profeſſe him for feare of the Phariſees, leſt they ſhould bee excommunicated. The conſciences of many tell them,
+<pb n="14" facs="tcp:156733:10"/> that ſuch a way is the way of God, doubtleſſe this is hea<g ref="char:EOLhyphen"/>ven road; ſurely theſe are the courſes to be taken to enjoy God, and communion with him, and yet for feare of I know not what, ſcornes, mocks, loſſe of friends, or the like; they dare not be ſeene. It may be they will goe to Chriſt with <hi>Nichodemus</hi> in the night, for feare too many eyes obſerve them, and take notice of them in ſuch un<g ref="char:EOLhyphen"/>wounted paths, exerciſes which ſeeme to proclaime ſtrictneſſe and preciſeneſſe. You ſee I am in haſte, and ther<g ref="char:EOLhyphen"/>fore cannot inſtance in particulars.</p>
+               <p>Secondly, others by reaſon of cowardlineſſe ſoone grow diſcouraged in ſad and weighty undertakings, be<g ref="char:EOLhyphen"/>cauſe they find the way to heaven craggy, the duties diffi<g ref="char:EOLhyphen"/>cult, the ſervices ſomething hard; and becauſe they have not expected ſucceſſe on a ſuddaine; here upon their ſpi<g ref="char:EOLhyphen"/>rits ſhrinke up; I have reference in this expreſſion to the original word uſed to this very purpoſe, in <hi>Num. 21. 4. And the ſoul of the people was much diſcouraged, becauſe of the way.</hi> Their ſpirits were ſhortned (as it is in the Hebrew) they run up by reaſon of diſtreſs, and al vigour gave in. As a Cra<g ref="char:EOLhyphen"/>vant begins to looke pale through feare; his ſpirits fly to the heart, you ſhall ſee no blood in his face: O did he think to be mocked, and to be purſevanted? and did he expect to be impriſoned? and did he conceive to bee put on ſuch a dead taske, and to worke himſelfe downe in his ſtrength, reſpects amongſt men, and other outward comforts, and reape nothing but the wind. Much hath beene done, and much hath beene endured, many weeks, moneths, yeares, are run up, ſince hee expected a good crop, of increaſe and comfort: but hopes being fruſtrated, and expectations diſappoynted; hee ſits downe dejected: Becauſe Refor<g ref="char:EOLhyphen"/>mation is driven on heavily, things ſtick in the birth, therefore many are diſheartned.</p>
+               <p>Thirdly, thoſe that under darke clouds and ſhowres of ſufferings lye grovelling on the ground, through diſconſo<g ref="char:EOLhyphen"/>lateneſſe: <hi>He that faints in the evill day, his ſtrength is ſmal,
+<pb n="15" facs="tcp:156733:10"/> Prov.</hi> 24. 10. There is mention of ſome, <hi>Ioſ.</hi> 2. 11. when the wind and tyde went againſt them; when the victory was carried on the other ſide, it is ſaid, <hi>their hearts melted, there was no more courage in them:</hi> The melting of the wax is the ſevering of part from part: The confirming of the parts together, is the ſtrength of it, the looſening of the parts weakens it: a mans ſoule runs out through fain<g ref="char:EOLhyphen"/>ting feares, as water; whereas it ſhould be confirmed, as a peice of ſteele. Chriſtians ſhould be magnanimous, and Fortitude will fortifie, and corroborate the ſoule. As the originall word ſuggeſts thus much, ſo the conjunction of ſtrength, and valour in the holy Scriptures doth import it: <hi>Be ſtrong and of good courage.</hi> Thinke of this, and take heed I pray you of daſtardly dejectedneſſe, and diſmaying feares, in ſad, ſuffering times, becauſe thereby both ſoule and body are much feebled, and much prejudiced.</p>
+               <p>The ſecond thing reproved, is wicked audaciouſneſſe: This branch of the reprehenſion is needfull, for certainely, there is in ſome men a kind of fire, that riſeth out of hell, or rather ſome mettall, which is digged out of the bot<g ref="char:EOLhyphen"/>tomleſſe pit, which is called Courage, and ſo accouted in the world. My meaning is, that there is a devilliſh, wret<g ref="char:EOLhyphen"/>ched reſoluteneſſe in the boſomes of ſome to hold on in ſinne; notwithſtanding divine reprehenſions, convictions, threatnings, and executions; which is as much oppoſite to true courage, as the greateſt cowardlineſs in the world. I told you before, that true courage is for good, upon a Command from God. The Apoſtle checks the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> becauſe they had ſo much boldneſs, as that they did dare to doe that which was offenſive, <hi>viz.</hi> to goe to law one with another, and that before Infidels, you dare doe it ſaith he, you have ſo much boldneſs, 1 <hi>Cor.</hi> 6. &amp; the Apoſtle <hi>Peter</hi> checks men, <hi>They are not afraid to ſpeak evil of Digni<g ref="char:EOLhyphen"/>ties.</hi>
+                  <note place="margin">Pſal. 12. 4.</note> The Pſalmiſt brings in bad men thus reſolving, <hi>Our tongues are our own, and we wil ſpeak, and who is Lord over us.</hi>
+               </p>
+               <p>Some there be, who though the Miniſter flaſh the very
+<pb n="16" facs="tcp:156733:11"/> fire of hell in their faces, diſcovering the danger of their evill courſes; yet like unto the warre-horſe, they will ad<g ref="char:EOLhyphen"/>venture further, let the conſequence prove what it may: yea, although God be on them in wayes of heavy afflicti<g ref="char:EOLhyphen"/>on, with one rod after another, and one blow bigger then another, though his providence pinch them in their per<g ref="char:EOLhyphen"/>ſons, impoveriſh them in their eſtates, cruſh them in their credit; and it may be they ſuffer much in their yoak-fel<g ref="char:EOLhyphen"/>lowes, Children and neere allies; yea, though the often recoyling of their conſciences, cauſe earth-quakes in their owne boſomes, yet on they will ſtill to doe wickedly. Theſe are the men of whom the Prophet complaines, <hi>Who make their faces harder then the Rock,</hi> and refuſe to re<g ref="char:EOLhyphen"/>turne.<note place="margin">Ier. 5. 3.</note> Men of this make are common in every place, and their way of living is much to be bewayled: and now I am neceſſitated to ſpeake unto them<g ref="char:punc">▪</g> becauſe their ſtur<g ref="char:EOLhyphen"/>dineſſe in refuſing to ſtoope unto God in reformation, is reputed courage.</p>
+               <p>To cruſh theſe wretched conceits, I heartily wiſh that the Scriptures may be peruſed; where you ſhall find, that thoſe who are commended for the moſt valiant Champions, and the ſtouteſt ſouldiers in the Campe of Chriſt, that they were the moſt ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orous in matter of ſinne, and moſt cau<g ref="char:EOLhyphen"/>tious in references to God, that they might not in any kind offend His Majeſty. <hi>David,</hi> that durſt take a Lyon by the beard, and durſt adventure upon a Duell, a ſingle combat with <hi>Goliah,</hi> yet thus hee expreſſeth himſelfe to God, <hi>My fleſh trembleth for feare of thee, and I am afraid of thy</hi>
+                  <note place="margin">Pſal. 119. 120.</note> 
+                  <hi>judgements.</hi> And <hi>Nehomiah,</hi> who had many wayes wor<g ref="char:EOLhyphen"/>thily expreſſed his magnanimity for God and his cauſe, yet no man was ever more awed with the feare of God. Hee perſwaded himſelfe, and others thereunto. <hi>Ought not wee to walke in the feare of God?</hi> And againe complayning of<note place="margin">Neh. 5 9. 15.</note> the governours, who were his Predeceſtors, that they were uſurious, and very injurious in their places; hee addeth but ſo, <hi>Did not I (I durſt not) becauſe of the feare
+<pb n="17" facs="tcp:156733:11"/> of the Lord my God.</hi> I am confident, that this poſition is full of truth, you may truſt to it, as ſound and orthodox: That there is no more Chriſtian courage, then there is Chri<g ref="char:EOLhyphen"/>ſtian feare in our hearts. There is no more true valour in Gods account, in conflicting with difficulties, and ſtout ſtanding under heavy preſſures, then there is a cautious, and timorous circumſpection, leſt ſinne of any kind ſhould be committed to the diſhonour, and provocation of God. Shall I thinke that a man that will ſweare, and roare, and curſe, and pox, and plague (I ſhould not have defiled my mouth with theſe words) ſhall I thinke that this man of Beliall hath Chriſtian courage? Hee may have morall magnanimity, as an heathen, as a Romane, but he wants the courage of a Saint, that courage which my Text cals for. Beloved, I pray you beleeve it, (I ſpeake as a Scrip<g ref="char:EOLhyphen"/>ture man; and I ſpeake to men that muſt labour to be men valiant, as becommeth Saints) <hi>hee t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at rules his owne ſpirit,</hi>
+                  <note place="margin">Prov. 16. 32.</note> 
+                  <hi>doth more then hee that overcomes a Citie.</hi> That man who takes downe his untamed luſts; and that man who bri<g ref="char:EOLhyphen"/>dles the unruly member the tongue Hee who conquers the rebellious mutinies in his owne boſome, and who notwithſtanding all avocaſions, is carefull ſtill to keepe cloſe to God, this is the valiant man indeed, God him<g ref="char:EOLhyphen"/>ſelfe, by <hi>Solomons</hi> pen, gives ſuch a one his Letters teſti<g ref="char:EOLhyphen"/>moniall to be magnanimous. And for my part I will ad<g ref="char:EOLhyphen"/>venter that which is deareſt unto my ſelfe in this world, in the hands of this man, if in the hand of any, in regard of valour, and holy, hearty, heroick reſolution. But I put off from this reproofe, wherein my zeale hath made mee bold, to ſpeake my mind: For I had rather counſell then reprehend: and before I goe forward, I wiſh that my checks lighting on ungracious hearts may make kindly and deepe impreſſions on them, for their amendment. And God grant that you that come to prayſe God, as becom<g ref="char:EOLhyphen"/>meth Saints this day, may learne alſo hereafter to be valiant as it becommeth Saints, according to the directions of ſa<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Scripture.</p>
+               <pb n="18" facs="tcp:156733:12"/>
+               <p>The laſt uſe, is an uſe of exhortation; (I feare, I have more to ſay then my time, and your occaſions will ſuffer mee to deliver.) It is on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly this, to perſwade you all (my beloved,) I ſay all, without exception, Colonels, Captaines, other Officers, Souldiers, yea all the Servants of the Lord, to yeild to the word of exhortation, and in your places to endeavour Chriſtian courage; This uſe moſt uſefull my heart deſires to enlarge, wherein I faine would,</p>
+               <list>
+                  <item>1. <hi>By Arguments perſwade it,</hi>
+                  </item>
+                  <item>2. <hi>By Directions helpe you in it.</hi>
+                  </item>
+               </list>
+               <p>I have Arguments of two kinds, God grant they may come with ſome ſtrength upon your hearts, to move you to endeavour to bee truly valorous.</p>
+               <p>Firſt, From the conſideration of the rich commodities, that are the undoubted conſequences of Religious forti<g ref="char:EOLhyphen"/>tude. O the booties, ô the boones, ô the benefits, that Chriſtians may enjoy in the way of Chriſtian valour. I will point at 6. and I ſhall doe little more then point at them.</p>
+               <p>Firſt, It will wind, and worke you into the boſome, and favour of God; <hi>Be of good Courage, and hee ſhall ſtrengthen thy heart.</hi> Put thou thy ſelfe forth in a way of bold adventure for him, and his providence ſhall bee ſweetly exerciſed for thy good. A worthy Comman<g ref="char:EOLhyphen"/>der how carefull is hee of a brave blade, a man that will fight at a Cannons mouth. Doth hee heare from him, that a bone is broken? Send for the Bone-ſetter. Is hee like to bleed to death? call for the Surgeon, let him poſt away to prevent that perill; Doth hee grow weaker and weaker? Is there any thing in the Campe, that may reſtore his Spi<g ref="char:EOLhyphen"/>rits, withhold nothing; nothing is too good, too coſtly, would hee eate gold, hee ſhould have it.</p>
+               <p>Thus it is with God, O what letters of commendation doth hee give in manifeſtation of his owne love to them
+<pb n="19" facs="tcp:156733:12"/> in <hi>Pergamus,</hi> upon this very ground: <hi>Thou, ſaith the Lord,</hi>
+                  <note place="margin">Rev. 2. 13.</note> 
+                  <hi>thou haſt held forth my name, and not denyed it even in thoſe daies, when</hi> Antipas <hi>my faithfull Martyr was ſlaine, even where Sathan dwelleth.</hi> Thou didſt fight for CHRIST in the Cave, where the Devill commanded, thou didſt ſtand and appeare for him, when other men did loſe life, and bloud. Here is a man that God will owne, ſuch a one, ſhall have Gods heart and hand to doe him honour, to yeild him comfort. And therefore I appeale to your con<g ref="char:EOLhyphen"/>ſciences, is not this Courage worth the having? worth the ſeeking?</p>
+               <p>Secondly, Your Courage will hearten you in the weigh<g ref="char:EOLhyphen"/>tieſt and difficulteſt adventures, which the cauſe and glory of God, the welfaire of his Church, the honour of the King, the peace and proſperity of the Kingdome may put you upon. <hi>Heſter</hi> was a woman, yet valiant. Muſt I to the King for my people; <hi>If I periſh, I periſh.</hi> I will take my life in my hand and adventure: <hi>Nehemi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi> had a hard taske to undertake, truly a dead peice of ſervice to ſet upon, yet notwithſtanding being a couragious man, hee will hazard his All, to obey the command of his God, and to ſerve the neceſſities of his brethren. This is recorded for the ever<g ref="char:EOLhyphen"/>laſting credit of ſome of the Servants of God, the Prieſts, 2 <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hron. 26. 17. 18. And</hi> Azariah <hi>the Prieſt went in after him and with him 4. ſcore Prieſts of the Lord that were va<g ref="char:EOLhyphen"/>liant men; and they withſtood</hi> Vzziah <hi>the King, and ſaid unto him, it pertaineth not unto thee</hi> Vzziah <hi>to burne incenſe to the Lord.</hi>
+               </p>
+               <p>Men of brave Noble Spirits will ſpeake, whatſoever it coſt them, upon a call from God, men of valour will ap<g ref="char:EOLhyphen"/>peare according to Gods command in ſervices ſad, and heavy. Wee ſay, that a well metled horſe, will take for<g ref="char:EOLhyphen"/>ward, and draw at a ſtanding tree, but that I ſhall ſpeake of in the next.</p>
+               <p>Thirdly, It will make us unwearied in our workes, though deſired, and expected ſucceſſe bee denied. You ſee
+<pb n="20" facs="tcp:156733:13"/> it ſome time; (My ſimilitude is a plaine one, but beloved, it fully evidenceth the thing I ſpeake to,) A Carre-horſe of good mettall, will plucke, and fall on his knees, and up, and take forty pluckes at a ſticking load, where<g ref="char:EOLhyphen"/>as a <hi>Jade,</hi> if it come not at the firſt twitch, goes back, back, and you cannot get him forward. Iuſt thus is it with a Coward, if hee have not victory at the firſt skirmiſh, hee will hardly make a ſecond aſſault; if hee bee knocked downe, once, twice, or thrice, hee gives up all as loſt, and is ready to runne away; but a man of a ſtout Spirit in ſuch a caſe, will pluckt up heart, fight againe, ſo long as hee can either ſtand or ſtirre. Thus <hi>Moſes</hi> hee goes, the firſt, and ſecond, and third, and tenth time to <hi>Pharoah,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding brow-beatings, repulſes, threatnings. <hi>Thus ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th the Lord, let my people goe.</hi> That was his meſſage, either it muſt bee granted, or hee will not ceaſe his importunity. <hi>Iſrael</hi> hee comes for, and <hi>Iſrael</hi> hee will have with him, or elſe, hee will not leave <hi>Egypt.</hi>
+               </p>
+               <p>My beloved, let us bring this downe to our ſelves: Ma<g ref="char:EOLhyphen"/>ny prayers wee have made, and many faſts wee have kept for <hi>Sion:</hi> and before our deliverance bee compleat, wee know not, how many plucks wee muſt yet have, and how many ſhall wee take to repaire the walles, and to reedifie the Houſe of God, in caſe, God give us this mettall, which I am commending.</p>
+               <p>Fourthly, Courage will bee a meanes to keepe us from conſcience-waſting, and ſcandalous miſcarriages. What had become (thinke you) of <hi>Shidrack Meſheck,</hi> and <hi>A<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dnego?</hi> or what had become of <hi>Daniel,</hi> if they had not beene men of undaunted hearts? The one had given off doing his duty, preſenting his indebted homage to his God, hee muſt not pray for the ſpace of thirty dayes to his God. The other three muſt bow downe in way of Ido<g ref="char:EOLhyphen"/>latry to an Idoll. But marke the Sparkling of their Spi<g ref="char:EOLhyphen"/>rits; <hi>Bee it knowne unto thee ô King, wee know God can deliver us, but if hee will not, wee will not fall downe, nor worſhip that
+<pb n="21" facs="tcp:156733:13"/> Image which thou haſt ſet up.</hi> They were by Courage kept out of the briers, and off the Rock, which might other<g ref="char:EOLhyphen"/>wiſe have torne and broken them wofully. And <hi>Daniel</hi> was preſerved from the neglect of his devotion to his God, by the ſame meanes.</p>
+               <p>Fiftly, Believe it, that our Courage will daunt our Ad<g ref="char:EOLhyphen"/>verſaries, and drive them away; The Captaine of that black guard, (the Devill I meane) will give back, if ſtoutly with<g ref="char:EOLhyphen"/>ſtood: <hi>Reſiſt him, and hee will flee<g ref="char:punc">▪</g> ſtand to it and hee will runne</hi>
+                  <note place="margin">Iam. 4. 7.</note> 
+                  <hi>away.</hi> In like manner, will thoſe, who march under his colours againſt Gods people. It is ſaid expreſly 1 <hi>Sam.</hi> 4. 5. 7. when the <hi>Philiſtines</hi> heard the <hi>Iſraelites</hi> ſhout, O ſay they their God is among them, wo unto us. Without doubt, the very valour of Proteſtants will bee the daun<g ref="char:EOLhyphen"/>ting of the Papiſts. Let thoſe who appeare for Reforma<g ref="char:EOLhyphen"/>tion, maintaine their ground, and the enemies thereof, will bee diſcouraged, vanquiſhed.</p>
+               <p>Laſtly, I might adde, that our Courage will incourage, I know not how many, One bold leader, will hearten hun<g ref="char:EOLhyphen"/>dreds. O ſaith <hi>Paul,</hi> my bonds, and ſufferings are famous, they are manifeſt in all the palace, and in all other places; and many of the Brethren by reaſon of my bonds Wax bold, and ſpeake the word without feare, <hi>Phil.</hi> 1. 12. 13. 14. If you would know what word? It was the word of CHRIST, who was denyed, derided. Now to ſpeake for a Chriſt when <hi>Paul</hi> is in priſon, and in bolts, and fetters for the word of CHRIST, was an act of Man<g ref="char:EOLhyphen"/>hood. And <hi>Pauls</hi> valour made them thus bold. The Cities Courage will make the Countrey couragious.</p>
+               <p>This true valour that I ſpeake for, may have influence I know not how farre, through the Kingdome in way of benefit, and advantage. Therefore looke you to it, <hi>Quit your ſelves like men, Be of good Courage.</hi>
+               </p>
+               <p>The ſecond motive, is taken from the conſideration of the ſad conſequences of cowardlineſſe.</p>
+               <p>Firſt, A mans perſonall diſcredit, call a Souldier a cra<g ref="char:EOLhyphen"/>vant,
+<pb n="22" facs="tcp:156733:14"/> and how doe you diſgrace him? They would faine, (ſaith <hi>Nehemiah,) Put mee in feare, that they might have had ſomewhat to reproach mee; Nehem.</hi> 6. 13. A Captaine, and a Coward, what a ſhame is it? If you deſire to maintaine your honour and reputation, in City and Countrey, hold up your hearts, <hi>Be men of valour.</hi>
+               </p>
+               <p>Secondly, This is another a ſad conſequence of coward<g ref="char:EOLhyphen"/>lineſſe, it may tend to make us unprofitable, and unſervicea<g ref="char:EOLhyphen"/>ble in our places; <hi>I was afraid, and hid my talant, for I</hi>
+                  <note place="margin">Matth. 25. 25</note> 
+                  <hi>thought, thou waſt a hard maſter.</hi> You know whoſe ſpeech it was. When a man hath both oportunities and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilities to doe, God and the King, the Parliament and Kingdome, good ſervice. God hath beſtowed a good head-piece, much wiſedome, an able body and healthfull, a ſtrong arme, a vaſt eſtate, a great command; and yet notwithſtanding, when the welfare of Church and Common-wealth, call him to make appearance, hee drawes back, dares not bee ſeene, all his talents are tied in a napkin, there is nothing traded for God, becauſe hee is a Coward, and dares not looke out of dores. There will bee a heavy reckoning for that man, <hi>Take him, bind him hand and foote.</hi> Cowardlineſſe makes men, though able, yet unprofitable, therefore take heed of it.</p>
+               <p>Thirdly, The good cauſes, which men owne and fa<g ref="char:EOLhyphen"/>vour, may receive a great deale of dammage, and prejudice by the puſillanimity, the pooreneſſe of the Spirits of them, that appeare therein. There was a notable piece of policy, in the endeavour of the rayling wretch <hi>Rabſhecah,</hi> to af<g ref="char:EOLhyphen"/>fright the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouldiers of <hi>Hezeki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, 2 Chr. 32. 18. This they did, that they might make us afraid and take our City.</hi> Coward<g ref="char:EOLhyphen"/>lineſſe ties a mans hands behind him, that hee can doe no<g ref="char:EOLhyphen"/>thing in the World, hee cannot keepe his ranck, and place, hee neither knowes when to charge, or diſcharge; his hands quake, his eyes cannot ſee, hee cries where am I? and what muſt I doe? Thus all is loſt, becauſe of cowardli<g ref="char:EOLhyphen"/>neſſe, it is a mighty diſadvantage to bee a daſtard. Cer<g ref="char:EOLhyphen"/>tainely,
+<pb n="23" facs="tcp:156733:14"/> a man under the power of diſmaying, in feares is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arſe a man in the uſe of his intellectuals.</p>
+               <p>Fourthly, What ſad breaches cowardlineſſe, may make upon us, both in regard of ſinne, and judgements. I know not. The ſad example of Saint <hi>Peter</hi> is here conſiderable, O what a wound did hee receive, by reaſon of his unwor<g ref="char:EOLhyphen"/>thy fearefulneſſe; It coſt him deare before the cut was cu<g ref="char:EOLhyphen"/>red. You know his threefold deniall of his Maſter, with the black aggravations thereof; O I know him not, I am not any of them, you are miſtaken in mee, &amp;c. But before that breach was, made up, it coſt him hot water, <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e wept bitterly.</hi>
+               </p>
+               <p>Beloved, beloved, conſider what I ſay, many a man doth that under the command of cowardlineſſe, which is paine and anguiſh in his heart to his dying day. God is won<g ref="char:EOLhyphen"/>derfully incenſed, when men ſhrinke from him, becauſe of difficulties and dangers, <hi>Feare not leaſt I ſlay thee.</hi> Bee not diſmayed at their faces (ſaith God to <hi>Jeremiah,</hi>) leſt I con<g ref="char:EOLhyphen"/>found thee before them, <hi>Ier.</hi> 1. 17. When God cals often, and cals loude upon men to take part with him, and yet they ſhrinke and draw back, believe it, the danger is not little. You know whoſe ſpeech it is; <hi>If you will deny mee</hi>
+                  <note place="margin">Marke 8. 38.</note> 
+                  <hi>before men, I will deny you before my Father, which is in hea<g ref="char:EOLhyphen"/>ven.</hi>
+               </p>
+               <p>A valiant Captaine, when the field is fought, and the victory is got, bids, bring in that cravant, that milke-ſop, who did runne away: Hiſſe him, turne him out of doores, as the ſhame of his Countrey; when Chriſt ſhall come and call, and ſay to ſome White-livered men, you were aſhamed to appeare for the ſtrict obſervation of the Lords<g ref="char:EOLhyphen"/>day, and you would not bee ſeene to favour the Reforma<g ref="char:EOLhyphen"/>tion, which by <hi>Englands</hi> Parliament, at ſuch a time was endeavoured, and you would not labour to have the ſan<g ref="char:EOLhyphen"/>ctuary ſwept from all pollutions, and you would bee at no coſt, to have Chriſts-coine, bear his ſtamp alone, to have his ordinances pure without mixtures, but you would ra<g ref="char:EOLhyphen"/>ther
+<pb n="24" facs="tcp:156733:15"/> 
+                  <hi>Iſſachar</hi>-like, lye under burthens, then ſtruggle for de<g ref="char:EOLhyphen"/>liverance. You were afraid what might bee the iſſue of your boldneſſe in ſuch buſineſſes, if the times ſhould turn, and the tyde run another way, and matters change in ſuch and ſuch a manner. And hereupon you ſneakingly left me, and my cauſe and glory in the open fields. Beloved, this will be an heavy hearing to the cowardly Apoſtate at the laſt day, when the fearefull, and the unbeleeving muſt be ſent into the lake which burneth with fire &amp; brim<g ref="char:EOLhyphen"/>ſtone. Therefore I intreat you againe, and againe, to con<g ref="char:EOLhyphen"/>ſider<note place="margin">Revel. 2. 8.</note> well of this matter.</p>
+               <p>Laſtly, how farre cowardlineſſe may tend to diſcourage others: I wiſh you to conſider: I here remember, that when <hi>Iſrael</hi> of old, was to goe forth unto battaile, God commanded the officers to ſpeake thus unto th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> people, <hi>What man is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, that is fearefull, and faint hearted, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t him goe and returne unto his houſe, leſt his brethrens hearts faint (or melt) as well as his heart.</hi>
+               </p>
+               <p>Gentlemen, God forbid that you who are come hither to day, to acknowledge your ſelves bound to God for your eſtates, lives, and liberties, &amp; to have the word of truth, preached and preſſed upon you for your ſoules good. God forbid (I ſay) that you who give good examples in many other kinds, ſhould doe any thing which may tend to wea<g ref="char:EOLhyphen"/>ken the ſpirits, and to dampe the courage of any, who ſhall enquire, what doe they in <hi>London?</hi>
+               </p>
+               <p>Having thus farre perſwaded you, to pluck up your hearts, as it becommeth Saints: I now intreat you, to give me leave to counſell you, what courſe to take, that you may be couragious, and I promiſe to doe it, as with ſincere reference to God, whoſe ſervant I am, ſo with unfained faithfulneſſe to you whom I now ſerve.</p>
+               <p>What ſhall wee doe, that wee may bee couragious?</p>
+               <p>My directions are in number ten, I will not be long in any one of them, becauſe I would not be tedious, I hum<g ref="char:EOLhyphen"/>bly beg your beſt attention, deſiring to ſpeake to your
+<pb n="25" facs="tcp:156733:15"/> ſoules, and I beſeech the Lord to ſpeake to my heart, and yours.</p>
+               <p>The firſt helpe to Chriſtian courage (which makes way for all the reſt) is this: Labour clearly from Scripture grounds to evidence your propriety in God.</p>
+               <p>When <hi>David</hi> was utterly undone in outward appearance at <hi>Ziklag,</hi> being ſtript of all outward comforts, and expe<g ref="char:EOLhyphen"/>cted that his brains ſhould be beaten out with ſtones, (<hi>They talked of ſtoning him) David incouraged himſelfe</hi> (hee con<g ref="char:EOLhyphen"/>firmed<note place="margin">1 Sam. 30. 6.</note> and ſtrengthened his heart) as the originall expreſ<g ref="char:EOLhyphen"/>ſeth it, <hi>in the Lord his God:</hi> Is there not more in God, My beloved, I pray you put this queſtion upon ſerious de<g ref="char:EOLhyphen"/>bate in your owne boſomes, my God to hearten mee, then in mine enemies my greateſt, my worſt enemies to diſmay mee? Take the improvement of this point in two parti<g ref="char:EOLhyphen"/>culars.</p>
+               <list>
+                  <item>1 Gods omnipotency?</item>
+                  <item>2 Gods Omnipreſence.</item>
+               </list>
+               <p>Is there not more ability in God, then power in all the world, if combined together. <hi>Bee ſtrong, and couragious,</hi>
+                  <note place="margin">2 Chro. 32. 8<g ref="char:punc">▪</g>
+                  </note> (ſaith <hi>Hezekiah) Be not afraid, nor diſmayed, for the King of</hi> Aſſyria, <hi>nor for all the multitude, that is with him, for there be more with us, then with him: with him is an arme of fleſh, but with us is the Lord our God to helpe us, and to fight our battailes, And the people reſted themſelves upon the words of Hezekiah, King of Iudah.</hi> At this time <hi>Senacherib</hi> had ray<g ref="char:EOLhyphen"/>ſed a very great Army, as holy Hiſtory reports: And ray<g ref="char:EOLhyphen"/>ling <hi>Rabſhekah</hi> was confident, that Iſraels God could not deliver; yet you ſee, that this thought. The Lord our God to helpe us, did ſteele and ſtrengthen their hearts.</p>
+               <p>The knowledge of Dietie, and Proprietie, will increaſe magnanimity in a fearefull heart, what are huge armies, ſtrong fortifications weapons of war, the ſtrength, ſtout<g ref="char:EOLhyphen"/>neſſe, skill, or experience of common ſouldiers, or warlike Commanders againſt the Lord Almighty? look back to the hiſtory laſt mentioned, where we read, that one angel in one
+<pb n="26" facs="tcp:156733:16"/> night killed five thouſand men in the hoſt of the King of <hi>Aſſyri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> By this example, gueſſe at the ability of your<note place="margin">Iſa. 37. 36.</note> God, having made ſure your intereſt in him; and from thence gather courage.</p>
+               <p>2 As the ability, ſo the preſence of God by the efficacy<note place="margin">Ioſh 1. 9.</note> of his all-ordering providence, may hearten all them, whoſe God hee is by ſpeciall Covenant; <hi>Have not I com<g ref="char:EOLhyphen"/>manded thee, be ſtrong, and of a good courage, be not afrayd, neither be thou diſmayed, for the Lord thy God is with thee whither ſoever thou goeſt.</hi> The Lord is with us, by the pre<g ref="char:EOLhyphen"/>ſence of his ſpeciall favour, in all our good undertakings whetherſoever wee goe. The Chriſtian carries his com<g ref="char:EOLhyphen"/>mander, his refuge, his Caſtle, his God along with him, whether hee keepe in the Citie, or goe forth into the coun<g ref="char:EOLhyphen"/>trey; whether hee ſerve by land, or by ſea, his God is ſtill at hand. Aſſurance therefore, that the al-ſufficient, al-pre<g ref="char:EOLhyphen"/>preſent God is ours, will lay a good foundation for good courage: Thoſe who adventure upon any ſervice without God going along with them, may expect defeats; not<g ref="char:EOLhyphen"/>withſtanding all meanes of defence: and therefore no m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvell, if they tremble: But God taking part with his people, they may confidently from his preſence expect de<g ref="char:EOLhyphen"/>liverance. <hi>If it had not been the Lord who was on our ſide, they had ſwallowed us up quicke &amp;c. but bleſſed be the Lord,</hi>
+                  <note place="margin">Pſal. 1. 6.</note> 
+                  <hi>who hath not given us, as a prey to their teeth.</hi> God and his people make one ſide; and becauſe <hi>their helpe ſtandeth in the name of the Lord,</hi> who made heaven and earth; therefore they have aboundant cauſe <hi>to be o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good courage.</hi>
+               </p>
+               <p>Secondly, make ſure, that the cauſe you appeare in, is the cauſe of God. If a man marching to looke his enemies in the face, and being about to begin the battail<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſhould feele the earth to ſhake under him, and the ground to ſink, every foot hee ſet forward: O how would this daunt him, and how would his heart recoyle, and give in within him? O beloved, I beſeech you, be you well confirmed in your owne hearts, that you doe ſerve for God. It is that
+<pb n="27" facs="tcp:156733:16"/> which was added to give Courage to them in <hi>Iehoſaphats</hi> time, when they were ſurrounded, with <hi>Ammon,</hi> and <hi>Moab,</hi> and Mount <hi>Seir,</hi> as if wee ſhould ſay, with <hi>Den<g ref="char:EOLhyphen"/>marke</hi> and <hi>France,</hi> and Papiſts at home. Well, ſaith the man of God, Hearken yee all <hi>Iudah,</hi> and yee Inhabitants of<note place="margin">2 Chron. 20. 15. &amp;c.</note> 
+                  <hi>Ieruſalem,</hi> and thou King <hi>Iehoſaphat;</hi> Thus ſaith the Lord unto you: <hi>Bee not afraid nor d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, by re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſon of the great multitude for the battaile is not yours but Gods.</hi>
+               </p>
+               <p>Beloved, hee that hath a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad conſcience, and a bad cauſe, ever fights as a Coward, and is ready at every ſtroke to lay downe his weapons and runne away. A true man will ſtand to it, come who may come, for his cauſe is juſtifia<g ref="char:EOLhyphen"/>ble, and hee may with boldneſſe owne it; but theives, if they heare any noiſe, any whiſpering, they cry one to ano<g ref="char:EOLhyphen"/>ther, let us haſt and bee gone, for they know, their adven<g ref="char:EOLhyphen"/>ture's unwarrantable. When a man thus thinkes with himſelfe, being beſet with dangers and difficulties, what if I ſhould dye in this buſineſſe? could I with confidence owne it, at the Barre of IESUS CHRIST? The incourage<g ref="char:EOLhyphen"/>ment of his owne conſcience, will much embolden him. But if a mans owne heart tell him; that adventuring and dying in a ſuch cauſe, e ſhall ſinck into Hell, becauſe he oppoſeth the Commands and Government of IESUS CHRIST; the liberties, the comforts, the prayers of Gods people, how is it poſſible, that hee ſhould play the man, and bee truly couragious?</p>
+               <p>Thirdly, Conſider ſeriouſly, the many weighty con<g ref="char:EOLhyphen"/>ſequences of the good cauſe, which from good grounds, you undertake to maintaine. Sit downe and ſadly thinke what will the iſſue bee, if you deſert your Proteſtation, whereby you bound your ſelves, to ſtand for the true Pro<g ref="char:EOLhyphen"/>teſtant Religion, the honour of our King, the Priviledges of Parliament, the Lawes of the Land, and welfare of the Kingdome. Here it is notable, how the <hi>Philiſtines</hi> hearte<g ref="char:EOLhyphen"/>ned one another, in the day of their deepe danger, 1 <hi>Sam. 4. 9. Be ſtrong, quit your ſelves like men ô</hi> Philiſtins <hi>that
+<pb n="28" facs="tcp:156733:17"/> you bee not Servants to the</hi> Hebrewes; <hi>Quit your ſelves like men and ſight;</hi> Either pluck up your hearts, and fight now, or bee ſlaves for ever; that is the argument.</p>
+               <p>And I pray you, obſerve how <hi>Ioab</hi> pleads, <hi>When hee ſaw the battell before and behind.</hi> 2 Sam. 10. 12. <hi>Be of good Courage, and let us play the men for our people, and for the Cities of our God.</hi> And that paſſage, <hi>Nehem.</hi> 4. 14. It is conſiderable, as either of the former; <hi>Bee not afraid remem<g ref="char:EOLhyphen"/>ber the Lord which is great and terrible, and fight for your Breth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n, for your Sons, for your Daughters, for your Wives, and for your Houſes.</hi>
+               </p>
+               <p>Marke it, my beloved, and make application, what if the Papiſts ſhould get the upper hand? What if the Par<g ref="char:EOLhyphen"/>liament ſhould bee diſſolved? What if the malignant par<g ref="char:EOLhyphen"/>ty ſhould effect their miſchievous deſires? Oh how darke and dolefull, how black and bloudy, would our times prove, we are all, many wayes obliged to ſtand for the go<g ref="char:EOLhyphen"/>vernment and worſhip of the Lord Chriſt: for the ſafety, and honour of our King, for the welfare of his three King<g ref="char:EOLhyphen"/>domes, for the Priviledges of our Parliament, and for our rights by Law; All theſe are to bee prized at an exceeding high rate: our happineſſe will bee great in the enjoying of them, and our miſery not ſmall, in the want of them. Eve<g ref="char:EOLhyphen"/>ry man according to his Relations and engagements, ſhould reaſon the caſe with himſelfe. What adventures ſhould I make, and what hazard ſhould I runne, that my ſelfe may not bee enſlaved, that my Wife may not bee abu<g ref="char:EOLhyphen"/>ſed, my Children maſſacred, and (which is above all,) that Chriſts holy Religion may not bee corrupted, and that Popery may not bee introduced and eſtabliſhed in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Thus meditation upon the worth of the things to bee maintained, will bee a ſpeciall meanes to quicken and to augment Courage.</p>
+               <p>Fourthly, Keepe Chriſt your Captaine in your eye. For true valour, there never was, nor ever ſhall bee any like unto him. <hi>Gird thy ſword upon thy thigh, ô moſt mighty, with
+<pb n="29" facs="tcp:156733:17"/> thy glory and Majeſty; and in thy Majeſty ride proſperouſly, and thy right hand ſhall teach thee terrible things; Pſalme</hi> 45. 3 4 How valiant a Champion was the Lord IESUS!<note place="margin">Heb. 12. 2.</note> 
+                  <hi>Hee endured the Croſſe, and deſpiſed the ſhame;</hi> Hee went on, though dogges did barke, and Lyons did roare, though men reproachfully reviled him, and the Devils endeavou<g ref="char:EOLhyphen"/>red to devoure him; though the earth (as it were) did ſhake under his feete, and the Heavens were black and thundring over his head. Although when his profeſſed enemies had conſpired his death, <hi>Iudas</hi> did betray him, and his other Diſciples did forſake him, yea although his God and Father did hide his face from him, when hee anſwe<g ref="char:EOLhyphen"/>red Divine Iuſtice for our ſinnes, yet hee ſhrunke not, hee drew not back, from the glorious worke underta<g ref="char:EOLhyphen"/>ken. When outward dangers encompaſſed him, and the ſorrowes of Hell tooke hold upon his Soule, though hee was apprehenſive, and ſenſible of all, unto the utmoſt, and therefore both complained and prayed to his Father, yet was he not diſcouraged. Hee did not ſound, when hee ſaw his own bloud, yea although his body was wet all over with a bloudy ſweat, but he worthily did wade through the floud of his appointed paſſions.</p>
+               <p>Conſider him, conſider him, (beloved,) that you may not faint in your minds; when a ſouldier ſees his Cap<g ref="char:EOLhyphen"/>taine content to take up with poore proviſions and un<g ref="char:EOLhyphen"/>daunted, though hee meet with hard ſervices, harſh uſages, ſore affronts, hee thereupon growes the more reſolute. For thus bee reaſons within himſelfe. My worthy Com<g ref="char:EOLhyphen"/>mander, for his diet, takes up with a cruſt of courſe bread and a little water, hee hath not beene in bed theſe many nights, but ſtill, either watcheth, or elſe, hee lies upon the ground, the cold ground no wayes, no weather diſcourages him, Winter, Summer, wet, or dry, ſcorching heate, the pinching froſt, are alike unto him: Bullets, blowes wounds, bruiſes, broken bones, doe not cauſe him to ſound a retreat, to give back, and ſhall I ſhrinke? Beloved, if
+<pb n="30" facs="tcp:156733:18"/> Chriſt had ſhrunke when Heaven frowned, and men de<g ref="char:EOLhyphen"/>ſerted, and Devils oppoſed him, what had become of you, and mee? Is this Chriſt my Captaine? and hath hee Cap<g ref="char:EOLhyphen"/>taine-like, Champion-like for mee both done and ſuffered thus worthily, thus incomparably, and ſhall not I put on Courage, and ſhew my ſelfe a man, a valiant man for him? I beſeech you, conſider this frequently and affectionate<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Fiftly, I commend unto you, mutuall Chriſtian com<g ref="char:EOLhyphen"/>munion, as a ſpeciall meanes of Chriſtian Courage. In the Prophet <hi>Malachy</hi> his times, when wickedneſſe was<note place="margin">Mal. 3. 16.</note> growen to a great head, and the power of godlineſſe was diſcountenanced in them, then <hi>thoſe that feared God, ſpake often one to another.</hi>
+               </p>
+               <p>When <hi>Paul</hi> after ſhiprack, <hi>ſaw the brethren, who came</hi>
+                  <note place="margin">Act. 28. 15.</note> 
+                  <hi>to meete him, hee tooke Courage.</hi> And alſo, upon a ſtrong<note place="margin">Act. 18. 5.</note> diſpute with ſome who oppoſed Chriſt, <hi>when</hi> Silas <hi>and</hi> Timotheus <hi>were come,</hi> Paul <hi>was preſſed in Spirit.</hi> God bee thanked for that unity and love which is amongſt you, amongſt you, the Aldermen and Commons of this City, unto whom the Militia is committed; God continue it, God knit your hearts together more faſt, and firme from day to day: God give you when you meete to conſider ſeriouſly what may heat, and hearten your Spirits in the way of Chriſtian valour, according to that which this day I have preached, and according to that, which this day wee all need.</p>
+               <p>Wee read in <hi>Iſay</hi> 41. 6. of a Company of Idolaters, ani<g ref="char:EOLhyphen"/>mating each other, in promoting Idoll worſhip. <hi>They helped every one his Neighbour, and every one ſayd to his brother,</hi> Bee of good Courage. <hi>So the Carpenter encouraged the Gold ſmith, and hee that ſmootheth with the hammer, him that ſmiteth with the anvill, &amp;c.</hi>
+               </p>
+               <p>Doubtleſſe, at this day, thoſe who envy our hopes, and oppoſe our peace, doe meete and hearten one another, both by words and actions. God forbid therefore, that wee
+<pb n="31" facs="tcp:156733:18"/> ſhould bee more regardleſſe of one another, having a bet<g ref="char:EOLhyphen"/>ter cauſe, and more incouragements.</p>
+               <p>Sixtly, ſet faith on worke in the promiſes of the Goſ<g ref="char:EOLhyphen"/>pell. The worthies in the primitive times, waxed va<g ref="char:EOLhyphen"/>liant by meanes of faith; <hi>Hebr.</hi> 11. 34. You may doe well to informe your ſelves, what the Lord is pleaſed to ſpeake in the word of truth for your comfort. By the bond of his owne rich unchangeable grace, he is become your deb<g ref="char:EOLhyphen"/>tour to doe more then I can poſſibly expreſſe. Three things I thought to have ſpoken unto, under this dire<g ref="char:EOLhyphen"/>ction.</p>
+               <p>Firſt, The promiſe of Gods aſſiſtance, <hi>Bee of good Cou<g ref="char:EOLhyphen"/>rage,</hi> and <hi>hee will ſtrengthen thine heart.</hi> The ſweet <hi>Pſalmiſt</hi> ſaw much ſweetneſſe in this, and therefore doth mention it, once and againe when the Soule ſaith, I am ready to<note place="margin">Pſal. 27. 14.</note> fall downe, yet taking courage, to march forward, it ſhall renew ſtrength, it ſhall receive an addition of new ſtrength, <hi>Eſa</hi> 40. 31. And that ſpeech of <hi>Solomon, Prov.</hi> 10. 29. is very remarkeable. <hi>The way of the Lord is ſtrength to the upright.</hi> They goe on and gather ſtrength in going, <hi>they walke from ſtrength to ſtregth, Pſalm.</hi> 84. 7. Truly this is an heartening conſideration.</p>
+               <p>Secondly, The promiſe of good ſucceſſe. Beloved, Chriſtians maintaining the cauſe and minding the glory of God, are as ſure of victory as if now they were ſinging the triumph, and going away as Conquerours. This is moſt certaine, for truth it ſelfe hath ſpoken it; <hi>In the World</hi>
+                  <note place="margin">Ioh. 16. 33.</note> 
+                  <hi>yee ſhall have affliction, bee of good cheere, or bee bold, I have overcome the World.</hi> The Devill hath his deaths wound, Corruption hath (as it were) the knife at the heart of it and the power of wicked men is broken, they are but ſprun<g ref="char:EOLhyphen"/>ting and ſtriving for life.</p>
+               <p>By this argument, the Lord heartened his ſervant <hi>Ioſhua; Bee ſtrong and of a good Courage, for unto this people ſhalt thou divide for an inheritance, the land which I ſware unto their Fathers to give them; Joſh.</hi> 1. 6 As
+<pb n="32" facs="tcp:156733:19"/> though the Lord had thus ſpoken; although thou mayeſt fight many battailes, receive many foyles, looſe many of thy ſouldiers, yet bee not diſmayed, for certainely as a Conquerour, thou ſhalt bring the people to <hi>Canaan.</hi>
+               </p>
+               <p>Thirdly, Then the recompence aſſured upon all them, who ſtoutly ſtand to the cauſe of God, is more rich and large, then I can relate. <hi>To him that overcommeth, will I grant to ſit with mee in my Throne.</hi> And from this aſſurance,<note place="margin">Rev. 3. 21.</note> the Apoſtle <hi>Paul</hi> incourageth the <hi>Corinthians.</hi> Therefore my beloved Brethren, <hi>Bee yee ſtedfaſt, and unmoveable al<g ref="char:EOLhyphen"/>wayes abounding in the worke of the Lord, for as much, as yee know that your labour is not in vaine in the Lord.</hi> God<note place="margin">1 Cor. 15 58.</note> will requite all paines taken, all ſorrowes ſuffered, and you <hi>that have loſt houſes, or land, or father, or mother, or wife, or</hi>
+                  <note place="margin">Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. 19. 29.</note> 
+                  <hi>children, for Chriſt, and his cauſe,</hi> beſides that inward peace, and tranquilitie and ioy, which an hundred fold exceed all ſublunary contents, to bee enioyed here, you ſhall inherit hereafter everlaſting life. And againe, feare none of thoſe things which thou ſhalt ſuffer. <hi>Behold the Devill ſhall caſt ſome of you into priſon, &amp;c. Be thou faithfull unto death, and I will give thee a Crowne of life.</hi> Feed on theſe promiſes, for Cordials flow from them to cheere your drooping hearts, and to ſtrengthen courage.</p>
+               <p>Seventhly in large your loue. If thoſe hearts which now doe but drop love, might flow forth ſtreames of love upon Gods cauſe, our Kings honour, and the Kingdomes welfare how wonderfully would our courage be increaſed. Both reaſon and religion, wil give in manifold ſtrong arguments to augment our love to our Prince, our Parliament, our peace, our priviledges, our poſterity: and doubtleſſe our love and valour, will grow together.</p>
+               <p>Love will adventure farre: Women are the more feeble, the more fearefull Sexe, and yet love in a tender mother will produce bold adventures to ſave the babe of her wombe. The timorous mother, who is wont to trem<g ref="char:EOLhyphen"/>ble at the report of a Musket, will almoſt come to a Can<g ref="char:EOLhyphen"/>nons
+<pb n="33" facs="tcp:156733:19"/> mouth to ſave her Child from being broken in pee<g ref="char:EOLhyphen"/>ces: Love doth it.</p>
+               <p>Have you not in the countrey ſometimes ſeene an Ewe, in defence of her lambe, to turne head upon a maſtive dog, and to ſtampe, although at other times, the barking of a little whelpe, will make a whole flocke of them to runne away. O, love doth it. And the poore Hen, ſhee will fly at the Kite to ſave her brood; Love doth it. O that you and I had this Love; Love to <hi>Zion,</hi> to the Goſpel of peace, Love to Chriſt, and the pure ordinances of grace: Love will make brave and bold adventures.</p>
+               <p>And as it will adventure farre, ſo it will endure much, and long. The Apoſtle ſaith, Charity beareth all things, endureth all things, <hi>Iacob</hi> though he had tedious dayes, and<note place="margin">1 Cor. 13. 7.</note> weary nights, a fore ſervice under a ſowre Vncle, a chur<g ref="char:EOLhyphen"/>liſh Maſter, yet he <hi>ſerved ſeven yeares for Rachell, and they ſeemed unto him, but a few dayes, for the love hee had to her</hi>
+                  <note place="margin">Gen. 29. 20.</note> 
+                  <hi>Love is ſtrong as death, many waters cannot quen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h love, neither can the flouds drowne it; if a man would give all the ſubſtance of his houſe for love, it would utterly be contemned.</hi>
+                  <note place="margin">Cant. 8. 6. 7.</note> What <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f one ſhould come to a woman, and make this mo<g ref="char:EOLhyphen"/>tion, be content that your child be torne in peices, and here is a thouſand pounds for you. Her anſwer would be ready. Not for a thouſand worlds: yea, ſhee would almoſt ſpit in his face, who ſhould preſſe ſuch a propoſition, what rend my child in peices? There is nothing can conquer love: ſo it would be with us, in reference to Gods com<g ref="char:EOLhyphen"/>mandements, the liberty of Goſpel ordinances: No pro<g ref="char:EOLhyphen"/>miſes, no threats, no means, fayre, or fowle would take us off from appearing in the defence of them, if our hearts were more enflamed with love.</p>
+               <p>Eightly, Walke exactly, keepe your conſciences cleare.</p>
+               <p>Notable is that direction of the Lord, <hi>Deut. 13. 8. Ye ſhal keep all the commandements which I command you this day, that you may be ſtrong:</hi> Suppoſe a man, who hath a wound, or
+<pb n="34" facs="tcp:156733:20"/> an impoſtu mated ſwelling on his body, ſhould goe into the Campe, if any touch him, hee skritcheth, and he cries, come not neare me, you know the reaſon, and the appli<g ref="char:EOLhyphen"/>cation is familiar and eaſie to the point in hand, wounds in our conſciences, will make us timerous and cowardly; but <hi>The Righteous is as bold as a lyon: He that walkes up<g ref="char:EOLhyphen"/>rightly,</hi>
+                  <note place="margin">Pro. 28. 1.</note> 
+                  <hi>walkes boldly:</hi> Take a man who hath no broken<g ref="char:EOLhyphen"/>neſſe, no boyles, no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lanes, no bruiſes, handle him, ſhake him, cruſh him, crowde him, thruſt him, caſt him: not<g ref="char:EOLhyphen"/>withſtanding he can better beare all this rugged uſage, then another can a fillip with the finger. I beſeech you mind the application of this, for the Lords ſake take heed, make not inroads, and breaches upon your conſciences, goe not againſt your light, for guilt will make you cowardly. <hi>Adam</hi> as ſoone as hee had ſinned he runs and puts his head in a buſh, what was the matter? hee heard a whiſtling wind, and hee runs away: What haſt thou ſinned, faith God? I, that is the matter. For if <hi>Adam</hi> had kept his heart ſound, if hee had not ſinned, hee would with boldneſſe have en<g ref="char:EOLhyphen"/>countred with any approaches, either of the creatures, or his Creator.</p>
+               <p>Ninthly, Improve your experiences. It would bee of ſingular uſe to us, to beſtow many houres, both together, and aſunder, in recounting the many great things which the Lord hath done for us, both in former times, &amp; of later; we have nationall deliverances Citie deliverances, Family mercies &amp; perſonal mercies to improve providence: Give me leave to cal to mind two moſt ſeaſonable now to be re<g ref="char:EOLhyphen"/>membred, conſidering the end of our aſſembling at this time: I am credibly informed that your ſelvs who are here to ho<g ref="char:EOLhyphen"/>nour God for your health continued, peace maintained, lives lengthened, had that day when you were abroad, two no<g ref="char:EOLhyphen"/>table experiences of Gods providence for your preſerva<g ref="char:EOLhyphen"/>tion; 1. There were muskets broken in the field; and yet nei<g ref="char:EOLhyphen"/>ther the Muskettiers, nor any neare them received the leaſt harme, although the throng of people was very great.
+<pb n="35" facs="tcp:156733:20"/> Might not ſome mens eyes, limbs, or lives have been loſt, by ſuch accidents; if the all-ordering hand of the Al<g ref="char:EOLhyphen"/>mighty had not prevented ſuch like dangers. The other paſſage of divine providence is more remarkeable.</p>
+               <p>2 Gods hand turned aſide graciouſly, and ſtrangely, a kindled match which was caſt towards a basket full of Gunpowder, which ſtood in the field for that dayes ſer<g ref="char:EOLhyphen"/>vice. From what malicious heart, and by what miſchie<g ref="char:EOLhyphen"/>vous hand this match was caſt, the Lord hee knoweth, whom we this day magnifie, as the God of our ſalvations.</p>
+               <p>Beloved, the remembrance of ſuch like providences, ſhould incourage our adventures for the Lord, whoſe hand hath diverted many unſeen, &amp; unexpected dangers. But I had almoſt forgot to give in my proof, that the improve<g ref="char:EOLhyphen"/>ment of experiences, increaſeth courage. I pray you obſerve it in <hi>Ioſ. 10. 25. And I ſhua ſaid unto them feare not, nor bee diſmayed, be ſtrong and of good courage; for thus ſhall the Lord doe to all your enemies, againſt whom yee ſight.</hi>
+               </p>
+               <p>Our God hath many times diſappointed the deſignes of our enemies: many of them who hated us, and endeavou<g ref="char:EOLhyphen"/>red our undoing, and deſolation, have beene diſcovered and brought to ſhame, the Lord hath trampled upon them gloriouſly. Theſe meditations enlarged by particular preg<g ref="char:EOLhyphen"/>nant inſtances, I commend unto you, as meanes to increaſe your courage.</p>
+               <p>Laſtly, when ever you have occaſion to ſhew your cou<g ref="char:EOLhyphen"/>rage, goe out ſelfe denyingly in the ſtrength of your God, <hi>Be ſtrong in the Lord, and in the power of his might. Epheſ 6. 10. Through God we ſhall doe valiant y. Pſal. 60 12. David</hi> was a man, as in other kinds, ſo in this imitable; when hee came againſt <hi>Goliah</hi> (who threatned to pluck him in pei<g ref="char:EOLhyphen"/>ces, as a Faulkoner doth a bird) his words are very obſer<g ref="char:EOLhyphen"/>vable.<note place="margin">1 Sam. 17. 45.</note> 
+                  <hi>Thou commeſt to me with a ſword, and with a ſpeare, and with a ſhield but I come to thee in the name of the Lord of hoſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the God of the Armies of Iſrael, whom thou haſt defied. Let theſe be the breathing of your ſeules. Some truſt in Cha<g ref="char:EOLhyphen"/>riots, and ſome in horſes, but wee will remember the name of
+<pb n="36" facs="tcp:156733:21"/> the Lord our God. They are brought down and fallen, but neare riſen an ſtand upright. Save Lord, let the King heare us when we c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </p>
+               <p>Thus be carefull to make addition of prayer, unto all the other meanes of Chriſtian courage. Pray heartily, ſelfe<g ref="char:EOLhyphen"/>denyingly, and believingly. Advance God, and plead his promiſe; and expect aſſiſtance according to his promiſe. <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of good courage, and he ſhall ſtrengthen your heart, all yee that hope in the Lord.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="order">
+            <p>It is ordered by the Committee, of the Houſe of Commons in Par<g ref="char:EOLhyphen"/>liament concerning printing, that this Booke intituled, <hi>Good Courage diſcovered, and incoura<g ref="char:EOLhyphen"/>red,</hi> be printed.</p>
+            <closer>
+               <signed>Iohn White.</signed>
+               <dateline>
+                  <date>26. May, 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
